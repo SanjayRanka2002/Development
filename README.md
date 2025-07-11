@@ -1,2 +1,2 @@
 # Development
-It is Only used for myself
+It is Only used for myself.
